@@ -1,2 +1,3 @@
 org.aion4j,avm-archetype,0.20=AVM Smart Contract Archetype
+org.aion4j,avm-archetype,0.30=AVM Smart Contract Archetype (Avm 1.4)
 org.aion4j,avm-archetype-multimodule,0.13=AVM Multi-Module Smart Contract Archetype
