@@ -1,0 +1,14 @@
+{
+  networks: [
+    {
+      "genesisHash": "0x1878e70918712e2f4cd9c4f1cfba6ff776b407fcf8ae64b686ab2cc673c18cb5",
+      "network": "Mastery",
+      "faucet_contract": "0xa055dc67cd05d013a0b7c064708a0eb86e31c5edbaf00bca645665217779d9f2"
+    },
+    {
+      "genesisHash": "0x61cdae999f17e297c979cd2fa73f9eb05b4f7f0cea475c61ca023f3d93083f0c",
+      "network": "Amity",
+      "faucet_contract": ""
+    }
+  ]
+}
