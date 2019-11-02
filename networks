@@ -9,6 +9,11 @@
       "genesisHash": "0x61cdae999f17e297c979cd2fa73f9eb05b4f7f0cea475c61ca023f3d93083f0c",
       "network": "Amity",
       "faucet_contract": ""
+    },
+    {
+      "genesisHash": "0x30793b4ea012c6d3a58c85c5b049962669369807a98e36807c1b02116417f823",
+      "network": "Mainnet - Kilimanjaro",
+      "faucet_contract": ""
     }
   ]
 }
