@@ -10,7 +10,7 @@
       "id": "amity",
       "genesisHash": "0x61cdae999f17e297c979cd2fa73f9eb05b4f7f0cea475c61ca023f3d93083f0c",
       "network": "Amity",
-      "faucetContract": ""
+      "faucetContract": "0xa0d3460b4cc2e7cc17e220f95d6b03e13b5e048a82b52fe072a85577979e7f2f"
     },
     {
       "id": "mainnet",
